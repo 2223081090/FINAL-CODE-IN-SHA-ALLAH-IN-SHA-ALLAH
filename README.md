@@ -3,4 +3,4 @@
 7_Prediction.ipynb = file name = US A 10000.csv , processed_full_dataset.csv , LightGBM.pkl , standard_scaler.pkl
 ফাইল আপলোড = (1-7 Merged.ipynb) = US A 10000.csv , processed_full_dataset.csv , LightGBM.pkl , standard_scaler.pkl
 ফাইল আপলোড = (2-7 Merged.ipynb) = US A 10000.csv , processed_full_dataset.csv , LightGBM.pkl , standard_scaler.pkl
-ফাইল আপলোড = (2-6 Merged.ipynb) = US A 10000.csv , processed_full_dataset.csv , LightGBM.pkl , standard_scaler.pkl
+ফাইল আপলোড = (2-6 Merged.ipynb) = US A 10000.csv , processed_full_dataset.csv
